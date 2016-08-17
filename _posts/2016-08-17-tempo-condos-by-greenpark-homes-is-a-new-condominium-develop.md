@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-17T21:57:47.314Z'
+datePublished: '2016-08-17T22:06:41.351Z'
 sourcePath: >-
   _posts/2016-08-17-tempo-condos-by-greenpark-homes-is-a-new-condominium-develop.md
 author: []
 via: {}
-dateModified: '2016-08-17T21:57:46.687Z'
+dateModified: '2016-08-17T22:06:40.293Z'
 title: ''
 publisher: {}
 description: >-
